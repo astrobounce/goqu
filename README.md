@@ -1,2 +1,2 @@
 # goqu
-goqu is go based implementation for kafka like queing queuing
+goqu is go based implementation for kafka like queuing
